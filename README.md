@@ -1,7 +1,7 @@
-<h1  color="Red">RAM YADAV</h1>
-<!-- LED Banner Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Linux+Nerd+%F0%9F%90%A7;Ethical+Hacker+(in+training)+%F0%9F%90%B1%E2%80%8D%E2%9A%A1;Network+Explorer+%F0%9F%94%8C" alt="Typing SVG" />
+cat > README.md << 'EOF'
+<!-- Centered Name with cool gradient -->
+<h1 align="center" style="font-family: 'Fira Code', monospace; font-weight: 700; font-size: 3rem; background: linear-gradient(90deg, #00ffae, #00ffaa, #00ccff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  Ram Yadav
 </h1>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 \```bash
 whoami
-I’m CodeWithRam3 – obsessed with security, Linux, and networks.
+I’m Ram Yadav – obsessed with security, Linux, and networks.
 \```
 
 ---
@@ -38,7 +38,7 @@ I’m CodeWithRam3 – obsessed with security, Linux, and networks.
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithRam3&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RamYadav&show_icons=true&theme=radical)
 
 ---
 
