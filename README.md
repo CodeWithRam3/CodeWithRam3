@@ -1,61 +1,21 @@
-<h1 align="center">👨‍💻 CodeWithRam3</h1>
+<!-- LED Banner Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Linux+Nerd+%F0%9F%90%A7;Ethical+Hacker+(in+training)+%F0%9F%90%B1%E2%80%8D%E2%9A%A1;Network+Explorer+%F0%9F%94%8C" alt="Typing SVG" />
+</h1>
+
 <p align="center">
-  <i>Linux Nerd • Ethical Hacker (in training) • Network Explorer</i>  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux%20Enthusiast-%2300ffae?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-%2300ffaa?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Networks-%2300ccff?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 ---
 
-### 👋 Welcome, curious minds!
-
-I'm Ram, a passionate learner diving deep into:
-- 🧠 **Computer Networks**
-- 🐧 **Linux & SysAdmin Stuff**
-- 🛡️ **Ethical Hacking & Cybersecurity**
-- 🧰 **Scripting & Open Source Tech**
-
----
-
-### 🔥 Current Focus
-- 🧰 Learning **WPA2 cracking**, **network sniffing**, and **Kali Linux** tools  
-- 📦 Posting **daily project updates** and security snippets  
-- 🧠 Studying fundamentals of **Wireshark**, **Nmap**, and **Metasploit**  
-- 👨‍🏫 Sharing what I learn, for others and my future self  
-
----
-
-### 🚀 Projects I'm Working On
-| 💻 Project | 📂 Repo | ⚙️ Status |
-|-----------|--------|---------|
-| Caesar Cipher | [View](https://github.com/CodeWithRam3/caesar-cipher) | ✅ Ready |
-| Cryptography Algorithms | [View](https://github.com/CodeWithRam3/Cryptography) | 🚧 More coming |
-| Next.js Playground | Private | 🔐 Building |
-
----
-
-### 🌐 Portfolio Coming Soon...
-> I’m cooking something awesome 👨‍🍳 — a personal portfolio that will showcase tools, labs, and hacks!
-
----
-
-### 🤝 Let's Collaborate
-I’m open to:
-- Collaborating on hacking labs 🧪
-- Writing beginner-friendly guides 📚
-- Linux automation projects 🐚
-
----
-
-### 📬 Reach Me
-- 🐙 GitHub: [CodeWithRam3](https://github.com/CodeWithRam3)
-- 🕸️ More links coming in my portfolio
-
----
-
-### ✨ Fun Fact
-> I learn by **doing, breaking, and fixing**. If you think that’s chaotic — welcome to hacking. 😎
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner8.png" alt="Banner" />
-</p>
+### 🔥 About Me
+```bash
+> whoami
+I’m CodeWithRam3 – obsessed with security, Linux, and networks.
